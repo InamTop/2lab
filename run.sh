@@ -1,3 +1,3 @@
-#!/bin/bash
-g++ main.cpp -o HelloWorld
-./HelloWorld
+#! /bin/bash
+g++ main.cpp -o HelloWorld.out
+./HelloWorld.out
